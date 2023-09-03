@@ -1,0 +1,21 @@
+Min första kontakt med programmering var med basic på ABC80, ABC800 och VIC20, för att sedan i början på 90-talet
+återupptas till viss del av makron och matlab på PC. Har en universitetsexamen som kemist och har arbetat mycket 
+med IT relaterade arbetsuppgifter av olika slag. Mycket har varit verifiering och konfigurering av labinformationssystem, 
+skapa enklare accessdatabaser och excelmakron. Har även skapat matlabscript, och kodat i Python i samband med kurser i 
+analytisk kemi och bioinformatik på universitetet. Har arbetat mycket med import och export av text filer för vidare 
+beräkningar och sammanställningar i Excel, Python, Matlab, m. fl. I mitt tidigare arbetsliv strävade jag alltid efter att
+förenkla och automatisera datainläsning, av resultat från analysinstrument eller labinformationssystem för vidare beräkning 
+och resultatsammanställningar i Excel.Då jag är mestadels självlärd och mina programmeringskunskaper härrör från min 
+kemiutbildning saknar jag en formell utbildning inom IT. Python kom jag i kontakt med 2018 i samband med en kurs i 
+bioinformatik, vilken ledde till kurser i forskningspraktik och ett 1 års masterarbete där fokus var att utveckla och använda
+Python script för beräkningar på EEG data samt proteinsekvenser. 
+
+Min förväntning och mitt egna mål är att lära mig de grundläggande kunskaper jag saknar i Python, även ifall jag kan lösa 
+avancerade beräkningar så saknar jag till stor del de grunder som behövs för att skapa läsbar och effektiv kod. Enkelt kan jag 
+säga att jag började med överkursen och hoppade över det grundläggande och även saknar de formella papper jag behöver för att söka 
+en IT tjänst.
+
+Fick min ADHD diagnos sent i livet, och den gör att jag ibland går in i något 100% eller får mig att verka korkad då jag tappar 
+tråden och uppleveler något enkelt som helt omöjligt. 
+
+Johan
