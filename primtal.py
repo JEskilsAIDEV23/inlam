@@ -3,7 +3,7 @@
 import math
 
 print('Funktionen hittar de primtal som finns i intervallet n till 99 och returnerar dem som en lista "true"')
-print('\n   [true] = primtal(n)\n\n')
+print('\n   true = primtal(n)\n\n')
 print('n anges som ett heltal i intervallet 2 - 99')
 
 def primtal(n):
